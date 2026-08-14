@@ -5,3 +5,7 @@
 
 # 의존성
 node_modules
+
+# 빌드 출력
+.next
+.vercel
