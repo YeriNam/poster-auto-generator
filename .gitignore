@@ -1,0 +1,7 @@
+# 시크릿 환경 변수 파일 — 절대 커밋하지 않음 (CLAUDE.md 2-1항)
+.env
+.env.local
+.env.*.local
+
+# 의존성
+node_modules
